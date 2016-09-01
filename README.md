@@ -1,2 +1,2 @@
 # Timeshed
-Time organiser based on Projects>Deadlines>Tasks>SubTasks. GUI with automatic organisation of the day based on deadlines and user friandly interface todrag/drop tasks into the day schedule. Also with work flow statistics.
+Time organiser based on Projects>Deadlines>Tasks>SubTasks. GUI with automatic proposed organisation of the day\week based on deadlines. Graphic interface to drag/drop tasks into the schedule. Work-flow statistics.
